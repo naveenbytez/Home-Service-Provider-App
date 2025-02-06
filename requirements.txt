@@ -1,0 +1,10 @@
+kivy
+kivymd
+firebase-admin
+requests
+python-firebase
+pyrebase4
+pillow
+plyer
+kivy-garden
+kivy-garden.snackbar
