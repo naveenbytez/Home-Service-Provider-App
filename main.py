@@ -49,12 +49,7 @@ from plyer import notification
 
 # Firebase configuration
 config = {
-    "apiKey": "AIzaSyDjODBYFW3qWxGnyToLJQ4JOc-qZjWmDOg",
-    "authDomain": "home-service-provider-ap-54db3.firebaseapp.com",
-    "databaseURL": "https://home-service-provider-ap-54db3-default-rtdb.firebaseio.com",
-    "projectId": "home-service-provider-ap-54db3",
-    "storageBucket": "home-service-provider-ap-54db3.firebasestorage.app",
-    "packageName": "com.example.homeserviceprovider"
+    # Paste your Firebase json file
 }
 #establishing connection
 firebase = pyrebase.initialize_app(config)
